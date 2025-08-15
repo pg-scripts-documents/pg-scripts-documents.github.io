@@ -134,7 +134,7 @@
                 59,
                 0.875,
                 60,
-                1.52,
+                0.875,
                 61,
                 1.52,
                 62,
@@ -483,6 +483,8 @@
                 0.29,
                 58,
                 0.195,
+                60,
+                0.563,
                 64,
                 0.086,
                 67,
@@ -642,25 +644,25 @@
                 213,
                 0.978,
                 214,
-                0.978,
+                1.856,
                 215,
-                1.856,
-                216,
                 1.974,
-                217,
+                216,
                 1.856,
+                217,
+                0.978,
                 218,
                 0.978,
                 219,
                 0.978,
                 220,
-                0.978,
-                221,
                 0.823,
-                222,
+                221,
                 1.429,
-                223,
+                222,
                 0.563,
+                223,
+                0.978,
                 224,
                 0.978,
                 225,
@@ -672,19 +674,19 @@
                 228,
                 0.978,
                 229,
-                0.978,
-                230,
                 1.856,
+                230,
+                0.978,
                 231,
                 0.978,
                 232,
-                0.978,
-                233,
                 1.429,
-                234,
+                233,
                 0.978,
-                235,
+                234,
                 0.563,
+                235,
+                0.978,
                 236,
                 0.978,
                 237,
@@ -692,27 +694,27 @@
                 238,
                 0.978,
                 239,
-                0.978,
+                1.429,
                 240,
-                1.429,
-                241,
                 0.978,
-                242,
+                241,
                 1.429,
+                242,
+                0.978,
                 243,
                 0.978,
                 244,
-                0.978,
-                245,
                 1.429,
+                245,
+                0.978,
                 246,
                 0.978,
                 247,
                 0.978,
                 248,
-                0.978,
-                249,
                 0.563,
+                249,
+                0.978,
                 250,
                 0.978,
                 251,
@@ -742,15 +744,15 @@
                 263,
                 0.978,
                 264,
-                0.978,
-                265,
                 0.563,
-                266,
+                265,
                 0.978,
+                266,
+                1.429,
                 267,
                 1.429,
                 268,
-                1.429,
+                0.978,
                 269,
                 0.978,
                 270,
@@ -762,9 +764,9 @@
                 273,
                 0.978,
                 274,
-                0.978,
-                275,
                 0.823,
+                275,
+                0.978,
                 276,
                 0.978,
                 277,
@@ -780,9 +782,9 @@
                 282,
                 0.978,
                 283,
-                0.978,
-                284,
                 1.069,
+                284,
+                0.978,
                 285,
                 0.978,
                 286,
@@ -796,9 +798,9 @@
                 290,
                 0.978,
                 291,
-                0.978,
-                292,
                 0.563,
+                292,
+                0.978,
                 293,
                 0.978,
                 294,
@@ -816,9 +818,9 @@
                 300,
                 0.978,
                 301,
-                0.978,
-                302,
                 0.823,
+                302,
+                0.978,
                 303,
                 0.978,
                 304,
@@ -830,9 +832,9 @@
                 307,
                 0.978,
                 308,
-                0.978,
-                309,
                 1.429,
+                309,
+                0.978,
                 310,
                 0.978,
                 311,
@@ -844,15 +846,15 @@
                 314,
                 0.978,
                 315,
-                0.978,
-                316,
                 0.563,
+                316,
+                0.978,
                 317,
                 0.978,
                 318,
                 0.978,
                 319,
-                0.978,
+                0.563,
                 320,
                 0.563,
                 321,
@@ -860,7 +862,7 @@
                 322,
                 0.563,
                 323,
-                0.563,
+                0.978,
                 324,
                 0.978,
                 325,
@@ -868,17 +870,15 @@
                 326,
                 0.978,
                 327,
-                0.978,
-                328,
                 0.563,
-                329,
+                328,
                 0.978
             ]
         ],
         [
             "title//documentation/shadowguard-anticheat/config/",
             [
-                330,
+                329,
                 1.204
             ]
         ],
@@ -993,74 +993,76 @@
                 0.643,
                 212,
                 0.905,
-                221,
+                220,
                 0.643,
-                223,
+                222,
                 0.643,
-                235,
+                234,
                 0.643,
-                249,
+                248,
                 0.905,
-                265,
+                264,
                 0.905,
-                275,
+                274,
                 0.905,
-                284,
+                283,
                 0.905,
-                292,
+                291,
                 0.905,
-                302,
+                301,
                 0.643,
-                316,
+                315,
                 0.905,
+                319,
+                0.643,
                 320,
                 0.643,
                 321,
                 0.643,
                 322,
                 0.643,
-                323,
+                327,
                 0.643,
-                328,
-                0.643,
-                331,
+                330,
                 1.117,
-                332,
+                331,
                 1.818,
+                332,
+                1.117,
                 333,
                 1.117,
                 334,
-                1.117,
-                335,
                 1.818,
+                335,
+                1.117,
                 336,
                 1.117,
                 337,
-                1.117,
-                338,
                 1.572,
+                338,
+                1.117,
                 339,
                 1.117,
                 340,
-                1.117,
-                341,
                 1.818,
-                342,
+                341,
                 1.572,
+                342,
+                1.117,
                 343,
                 1.117,
                 344,
-                1.117,
-                345,
                 1.572,
-                346,
+                345,
                 1.117,
+                346,
+                1.818,
                 347,
                 1.818,
                 348,
-                1.818,
-                349,
                 1.973,
+                349,
+                1.117,
                 350,
                 1.117,
                 351,
@@ -1090,23 +1092,23 @@
                 363,
                 1.117,
                 364,
-                1.117,
-                365,
                 1.818,
-                366,
+                365,
                 1.117,
-                367,
+                366,
                 1.572,
+                367,
+                1.117,
                 368,
                 1.117,
                 369,
                 1.117,
                 370,
-                1.117,
-                371,
                 1.973,
-                372,
+                371,
                 1.572,
+                372,
+                1.117,
                 373,
                 1.117,
                 374,
@@ -1126,15 +1128,15 @@
                 381,
                 1.117,
                 382,
-                1.117,
-                383,
                 1.572,
-                384,
+                383,
                 1.117,
+                384,
+                1.572,
                 385,
                 1.572,
                 386,
-                1.572,
+                1.117,
                 387,
                 1.117,
                 388,
@@ -1142,9 +1144,9 @@
                 389,
                 1.117,
                 390,
-                1.117,
-                391,
                 1.572,
+                391,
+                1.117,
                 392,
                 1.117,
                 393,
@@ -1184,9 +1186,9 @@
                 410,
                 1.117,
                 411,
-                1.117,
-                412,
                 1.572,
+                412,
+                1.117,
                 413,
                 1.117,
                 414,
@@ -1240,8 +1242,6 @@
                 438,
                 1.117,
                 439,
-                1.117,
-                440,
                 1.117
             ]
         ]
@@ -1267,7 +1267,7 @@
         [
             "\"esx:playerloaded\"",
             {
-                "_index": 350,
+                "_index": 349,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1284,7 +1284,7 @@
         [
             "\"qb",
             {
-                "_index": 352,
+                "_index": 351,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1301,7 +1301,7 @@
         [
             "\"your_fivemanage_token_here\"",
             {
-                "_index": 375,
+                "_index": 374,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1318,7 +1318,7 @@
         [
             "\"your_framework_or_select_character_event\"",
             {
-                "_index": 355,
+                "_index": 354,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1368,7 +1368,7 @@
         [
             "'@shadowguardac/module.lua'",
             {
-                "_index": 251,
+                "_index": 250,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1435,7 +1435,7 @@
         [
             "(or",
             {
-                "_index": 239,
+                "_index": 238,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1559,7 +1559,7 @@
         [
             "...",
             {
-                "_index": 410,
+                "_index": 409,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1609,7 +1609,7 @@
         [
             "10188",
             {
-                "_index": 238,
+                "_index": 237,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1626,7 +1626,7 @@
         [
             "10188:",
             {
-                "_index": 228,
+                "_index": 227,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1726,7 +1726,7 @@
         [
             "=",
             {
-                "_index": 349,
+                "_index": 348,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1755,7 +1755,7 @@
         [
             ">",
             {
-                "_index": 237,
+                "_index": 236,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1797,7 +1797,7 @@
         [
             "_resource.lua",
             {
-                "_index": 248,
+                "_index": 247,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1855,7 +1855,7 @@
         [
             "able",
             {
-                "_index": 291,
+                "_index": 290,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1872,7 +1872,7 @@
         [
             "according",
             {
-                "_index": 413,
+                "_index": 412,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1889,7 +1889,7 @@
         [
             "activate",
             {
-                "_index": 425,
+                "_index": 424,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -1906,7 +1906,7 @@
         [
             "actively",
             {
-                "_index": 270,
+                "_index": 269,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -1985,7 +1985,7 @@
         [
             "addition",
             {
-                "_index": 286,
+                "_index": 285,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2002,7 +2002,7 @@
         [
             "additional",
             {
-                "_index": 387,
+                "_index": 386,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -2019,7 +2019,7 @@
         [
             "adjust",
             {
-                "_index": 223,
+                "_index": 222,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2044,7 +2044,7 @@
         [
             "advantage",
             {
-                "_index": 432,
+                "_index": 431,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -2108,7 +2108,7 @@
                     "/": {
                         "position": [
                             [
-                                524,
+                                525,
                                 3
                             ]
                         ]
@@ -2119,7 +2119,7 @@
         [
             "aimbot",
             {
-                "_index": 408,
+                "_index": 407,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -2245,11 +2245,11 @@
                                 3
                             ],
                             [
-                                482,
+                                483,
                                 3
                             ],
                             [
-                                603,
+                                604,
                                 3
                             ]
                         ]
@@ -2357,7 +2357,7 @@
         [
             "anything,",
             {
-                "_index": 231,
+                "_index": 230,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2374,7 +2374,7 @@
         [
             "applied.",
             {
-                "_index": 315,
+                "_index": 314,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2428,7 +2428,7 @@
         [
             "artifact",
             {
-                "_index": 216,
+                "_index": 215,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2467,11 +2467,11 @@
                     "/": {
                         "position": [
                             [
-                                543,
+                                544,
                                 2
                             ],
                             [
-                                551,
+                                552,
                                 2
                             ]
                         ]
@@ -2490,7 +2490,7 @@
         [
             "as:",
             {
-                "_index": 397,
+                "_index": 396,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -2507,7 +2507,7 @@
         [
             "at",
             {
-                "_index": 438,
+                "_index": 437,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -2524,7 +2524,7 @@
         [
             "automatic",
             {
-                "_index": 258,
+                "_index": 257,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2541,7 +2541,7 @@
         [
             "automatically",
             {
-                "_index": 233,
+                "_index": 232,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2562,7 +2562,7 @@
         [
             "automation",
             {
-                "_index": 273,
+                "_index": 272,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2613,7 +2613,7 @@
         [
             "backup",
             {
-                "_index": 317,
+                "_index": 316,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2630,7 +2630,7 @@
         [
             "based",
             {
-                "_index": 382,
+                "_index": 381,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -2647,7 +2647,7 @@
         [
             "be",
             {
-                "_index": 275,
+                "_index": 274,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2730,7 +2730,7 @@
         [
             "below",
             {
-                "_index": 243,
+                "_index": 242,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2753,7 +2753,7 @@
                     "/": {
                         "position": [
                             [
-                                493,
+                                494,
                                 4
                             ]
                         ]
@@ -2772,7 +2772,7 @@
         [
             "better",
             {
-                "_index": 312,
+                "_index": 311,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2789,7 +2789,7 @@
         [
             "between",
             {
-                "_index": 260,
+                "_index": 259,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2806,7 +2806,7 @@
         [
             "build",
             {
-                "_index": 217,
+                "_index": 216,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2835,7 +2835,7 @@
         [
             "builds",
             {
-                "_index": 274,
+                "_index": 273,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2852,7 +2852,7 @@
         [
             "builds):",
             {
-                "_index": 241,
+                "_index": 240,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2869,7 +2869,7 @@
         [
             "builds,",
             {
-                "_index": 256,
+                "_index": 255,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -2917,7 +2917,7 @@
                     "/": {
                         "position": [
                             [
-                                571,
+                                572,
                                 3
                             ]
                         ]
@@ -2973,7 +2973,7 @@
         [
             "carefully",
             {
-                "_index": 283,
+                "_index": 282,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3007,7 +3007,7 @@
         [
             "cause",
             {
-                "_index": 287,
+                "_index": 286,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3041,7 +3041,7 @@
         [
             "changes",
             {
-                "_index": 314,
+                "_index": 313,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3058,7 +3058,7 @@
         [
             "changes.",
             {
-                "_index": 319,
+                "_index": 318,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3075,7 +3075,7 @@
         [
             "character",
             {
-                "_index": 345,
+                "_index": 344,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3121,7 +3121,7 @@
         [
             "check",
             {
-                "_index": 281,
+                "_index": 280,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3155,7 +3155,7 @@
         [
             "client",
             {
-                "_index": 266,
+                "_index": 265,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3172,7 +3172,7 @@
         [
             "client_script",
             {
-                "_index": 250,
+                "_index": 249,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3189,7 +3189,7 @@
         [
             "communicate",
             {
-                "_index": 263,
+                "_index": 262,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3206,7 +3206,7 @@
         [
             "compatibility",
             {
-                "_index": 218,
+                "_index": 217,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3240,7 +3240,7 @@
         [
             "config",
             {
-                "_index": 330,
+                "_index": 329,
                 "title": {
                     "/documentation/shadowguard-anticheat/config/": {
                         "position": [
@@ -3257,7 +3257,7 @@
         [
             "config.",
             {
-                "_index": 347,
+                "_index": 346,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3282,7 +3282,7 @@
         [
             "config.lua",
             {
-                "_index": 391,
+                "_index": 390,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3303,7 +3303,7 @@
         [
             "config.playerloaded",
             {
-                "_index": 335,
+                "_index": 334,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3328,7 +3328,7 @@
         [
             "config.token",
             {
-                "_index": 365,
+                "_index": 364,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3378,7 +3378,7 @@
         [
             "configurations",
             {
-                "_index": 434,
+                "_index": 433,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3416,7 +3416,7 @@
         [
             "configured",
             {
-                "_index": 389,
+                "_index": 388,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3439,7 +3439,7 @@
                     "/": {
                         "position": [
                             [
-                                591,
+                                592,
                                 11
                             ]
                         ]
@@ -3475,7 +3475,7 @@
         [
             "control",
             {
-                "_index": 294,
+                "_index": 293,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3492,7 +3492,7 @@
         [
             "core:client:onplayerloaded\"",
             {
-                "_index": 353,
+                "_index": 352,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3526,7 +3526,7 @@
         [
             "correctly",
             {
-                "_index": 322,
+                "_index": 321,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3568,7 +3568,7 @@
         [
             "custom",
             {
-                "_index": 357,
+                "_index": 356,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3636,7 +3636,7 @@
         [
             "dependencies",
             {
-                "_index": 309,
+                "_index": 308,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3674,7 +3674,7 @@
         [
             "depending",
             {
-                "_index": 219,
+                "_index": 218,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3691,7 +3691,7 @@
         [
             "details:",
             {
-                "_index": 246,
+                "_index": 245,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3708,7 +3708,7 @@
         [
             "detection",
             {
-                "_index": 409,
+                "_index": 408,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3725,7 +3725,7 @@
         [
             "determines",
             {
-                "_index": 337,
+                "_index": 336,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3776,7 +3776,7 @@
         [
             "disabling",
             {
-                "_index": 415,
+                "_index": 414,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -3793,7 +3793,7 @@
         [
             "do",
             {
-                "_index": 230,
+                "_index": 229,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3860,7 +3860,7 @@
         [
             "don't",
             {
-                "_index": 229,
+                "_index": 228,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3877,7 +3877,7 @@
         [
             "done",
             {
-                "_index": 298,
+                "_index": 297,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3919,7 +3919,7 @@
         [
             "due",
             {
-                "_index": 224,
+                "_index": 223,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3936,7 +3936,7 @@
         [
             "during",
             {
-                "_index": 328,
+                "_index": 327,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3971,7 +3971,7 @@
                                 4
                             ],
                             [
-                                546,
+                                547,
                                 4
                             ]
                         ]
@@ -3982,7 +3982,7 @@
         [
             "edit",
             {
-                "_index": 234,
+                "_index": 233,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -3999,7 +3999,7 @@
         [
             "enable/disable",
             {
-                "_index": 393,
+                "_index": 392,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4047,7 +4047,7 @@
                     "/": {
                         "position": [
                             [
-                                617,
+                                618,
                                 8
                             ]
                         ]
@@ -4103,7 +4103,7 @@
         [
             "ensures",
             {
-                "_index": 262,
+                "_index": 261,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4141,7 +4141,7 @@
         [
             "esx",
             {
-                "_index": 351,
+                "_index": 350,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4158,7 +4158,7 @@
         [
             "event",
             {
-                "_index": 359,
+                "_index": 358,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4175,7 +4175,7 @@
         [
             "event,",
             {
-                "_index": 423,
+                "_index": 422,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4314,7 +4314,7 @@
         [
             "fail",
             {
-                "_index": 325,
+                "_index": 324,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4331,7 +4331,7 @@
         [
             "features",
             {
-                "_index": 388,
+                "_index": 387,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4386,7 +4386,7 @@
         [
             "final",
             {
-                "_index": 420,
+                "_index": 419,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4420,7 +4420,7 @@
         [
             "fivem",
             {
-                "_index": 215,
+                "_index": 214,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4449,7 +4449,7 @@
         [
             "fivemanage",
             {
-                "_index": 372,
+                "_index": 371,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4534,7 +4534,7 @@
                                 6
                             ],
                             [
-                                486,
+                                487,
                                 6
                             ]
                         ]
@@ -4663,7 +4663,7 @@
         [
             "framework",
             {
-                "_index": 332,
+                "_index": 331,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4688,7 +4688,7 @@
         [
             "framework’s",
             {
-                "_index": 422,
+                "_index": 421,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4705,7 +4705,7 @@
         [
             "freecam",
             {
-                "_index": 401,
+                "_index": 400,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4722,7 +4722,7 @@
         [
             "from",
             {
-                "_index": 427,
+                "_index": 426,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4772,7 +4772,7 @@
         [
             "fully",
             {
-                "_index": 343,
+                "_index": 342,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4806,7 +4806,7 @@
         [
             "functionality.",
             {
-                "_index": 428,
+                "_index": 427,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4823,7 +4823,7 @@
         [
             "functions.",
             {
-                "_index": 236,
+                "_index": 235,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4840,7 +4840,7 @@
         [
             "future",
             {
-                "_index": 268,
+                "_index": 267,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4861,7 +4861,7 @@
         [
             "fxmanifest.lua",
             {
-                "_index": 247,
+                "_index": 246,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4878,7 +4878,7 @@
         [
             "game",
             {
-                "_index": 362,
+                "_index": 361,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4895,7 +4895,7 @@
         [
             "general",
             {
-                "_index": 300,
+                "_index": 299,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -4960,7 +4960,7 @@
                     "/": {
                         "position": [
                             [
-                                516,
+                                517,
                                 4
                             ]
                         ]
@@ -4971,7 +4971,7 @@
         [
             "godmode",
             {
-                "_index": 399,
+                "_index": 398,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -4988,7 +4988,7 @@
         [
             "group",
             {
-                "_index": 311,
+                "_index": 310,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5042,7 +5042,7 @@
         [
             "hack",
             {
-                "_index": 404,
+                "_index": 403,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5059,7 +5059,7 @@
         [
             "handled",
             {
-                "_index": 276,
+                "_index": 275,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5147,7 +5147,7 @@
         [
             "here",
             {
-                "_index": 392,
+                "_index": 391,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5181,7 +5181,7 @@
         [
             "here:",
             {
-                "_index": 373,
+                "_index": 372,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5212,7 +5212,7 @@
                                 3
                             ],
                             [
-                                461,
+                                462,
                                 3
                             ]
                         ]
@@ -5223,7 +5223,7 @@
         [
             "https://fivemanage.com/",
             {
-                "_index": 374,
+                "_index": 373,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5314,7 +5314,7 @@
         [
             "image",
             {
-                "_index": 367,
+                "_index": 366,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5335,7 +5335,7 @@
         [
             "important",
             {
-                "_index": 279,
+                "_index": 278,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5352,7 +5352,7 @@
         [
             "important:",
             {
-                "_index": 321,
+                "_index": 320,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5377,7 +5377,7 @@
         [
             "improve",
             {
-                "_index": 272,
+                "_index": 271,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5459,7 +5459,7 @@
         [
             "injection",
             {
-                "_index": 259,
+                "_index": 258,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5493,7 +5493,7 @@
         [
             "inside:",
             {
-                "_index": 390,
+                "_index": 389,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5628,7 +5628,7 @@
         [
             "integrate",
             {
-                "_index": 296,
+                "_index": 295,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5662,7 +5662,7 @@
         [
             "invalid",
             {
-                "_index": 380,
+                "_index": 379,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5777,7 +5777,7 @@
         [
             "its",
             {
-                "_index": 439,
+                "_index": 438,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5794,7 +5794,7 @@
         [
             "joined",
             {
-                "_index": 344,
+                "_index": 343,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5848,7 +5848,7 @@
         [
             "key",
             {
-                "_index": 416,
+                "_index": 415,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -5865,7 +5865,7 @@
         [
             "latest",
             {
-                "_index": 240,
+                "_index": 239,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5909,7 +5909,7 @@
                     "/": {
                         "position": [
                             [
-                                581,
+                                582,
                                 4
                             ]
                         ]
@@ -5937,7 +5937,7 @@
         [
             "limits",
             {
-                "_index": 257,
+                "_index": 256,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -5954,7 +5954,7 @@
         [
             "line",
             {
-                "_index": 242,
+                "_index": 241,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6009,7 +6009,7 @@
         [
             "lua",
             {
-                "_index": 249,
+                "_index": 248,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6044,7 +6044,7 @@
                     "/": {
                         "position": [
                             [
-                                531,
+                                532,
                                 4
                             ]
                         ]
@@ -6079,7 +6079,7 @@
         [
             "making",
             {
-                "_index": 318,
+                "_index": 317,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6096,7 +6096,7 @@
         [
             "mandatory",
             {
-                "_index": 323,
+                "_index": 322,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6121,7 +6121,7 @@
         [
             "manually",
             {
-                "_index": 222,
+                "_index": 221,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6142,7 +6142,7 @@
         [
             "many",
             {
-                "_index": 288,
+                "_index": 287,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6159,7 +6159,7 @@
         [
             "may",
             {
-                "_index": 221,
+                "_index": 220,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6205,7 +6205,7 @@
         [
             "met,",
             {
-                "_index": 324,
+                "_index": 323,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6222,7 +6222,7 @@
         [
             "missing,",
             {
-                "_index": 381,
+                "_index": 380,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6239,7 +6239,7 @@
         [
             "module",
             {
-                "_index": 285,
+                "_index": 284,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6256,7 +6256,7 @@
         [
             "modules",
             {
-                "_index": 395,
+                "_index": 394,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6279,7 +6279,7 @@
                     "/": {
                         "position": [
                             [
-                                607,
+                                608,
                                 4
                             ]
                         ]
@@ -6382,7 +6382,7 @@
         [
             "needed?",
             {
-                "_index": 253,
+                "_index": 252,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6399,7 +6399,7 @@
         [
             "needs.",
             {
-                "_index": 414,
+                "_index": 413,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6416,7 +6416,7 @@
         [
             "never",
             {
-                "_index": 377,
+                "_index": 376,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6470,7 +6470,7 @@
         [
             "newer",
             {
-                "_index": 255,
+                "_index": 254,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6487,7 +6487,7 @@
         [
             "not",
             {
-                "_index": 284,
+                "_index": 283,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6528,7 +6528,7 @@
         [
             "notes",
             {
-                "_index": 421,
+                "_index": 420,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6545,7 +6545,7 @@
         [
             "occur",
             {
-                "_index": 327,
+                "_index": 326,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6562,7 +6562,7 @@
         [
             "of",
             {
-                "_index": 302,
+                "_index": 301,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6608,7 +6608,7 @@
         [
             "older",
             {
-                "_index": 306,
+                "_index": 305,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6688,7 +6688,7 @@
         [
             "operating",
             {
-                "_index": 340,
+                "_index": 339,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6705,7 +6705,7 @@
         [
             "operations.",
             {
-                "_index": 370,
+                "_index": 369,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6775,7 +6775,7 @@
         [
             "organization",
             {
-                "_index": 313,
+                "_index": 312,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6792,7 +6792,7 @@
         [
             "other",
             {
-                "_index": 384,
+                "_index": 383,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6809,7 +6809,7 @@
         [
             "otherwise",
             {
-                "_index": 424,
+                "_index": 423,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6836,7 +6836,7 @@
                                 3
                             ],
                             [
-                                512,
+                                513,
                                 3
                             ]
                         ]
@@ -6847,7 +6847,7 @@
         [
             "page",
             {
-                "_index": 331,
+                "_index": 330,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6864,7 +6864,7 @@
         [
             "panel,",
             {
-                "_index": 295,
+                "_index": 294,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -6915,7 +6915,7 @@
         [
             "performance.",
             {
-                "_index": 440,
+                "_index": 439,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -6991,7 +6991,7 @@
         [
             "plans:",
             {
-                "_index": 269,
+                "_index": 268,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7008,7 +7008,7 @@
         [
             "player",
             {
-                "_index": 341,
+                "_index": 340,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7033,7 +7033,7 @@
         [
             "playerloaded",
             {
-                "_index": 348,
+                "_index": 347,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7058,7 +7058,7 @@
         [
             "players.",
             {
-                "_index": 426,
+                "_index": 425,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7106,7 +7106,7 @@
                     "/": {
                         "position": [
                             [
-                                554,
+                                555,
                                 8
                             ]
                         ]
@@ -7123,7 +7123,7 @@
                     "/": {
                         "position": [
                             [
-                                498,
+                                499,
                                 10
                             ]
                         ]
@@ -7134,7 +7134,7 @@
         [
             "private",
             {
-                "_index": 376,
+                "_index": 375,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7151,7 +7151,7 @@
         [
             "problems",
             {
-                "_index": 289,
+                "_index": 288,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7168,7 +7168,7 @@
         [
             "processing",
             {
-                "_index": 235,
+                "_index": 234,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7199,7 +7199,7 @@
                     "/": {
                         "position": [
                             [
-                                631,
+                                632,
                                 8
                             ]
                         ]
@@ -7210,7 +7210,7 @@
         [
             "properly",
             {
-                "_index": 264,
+                "_index": 263,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7227,7 +7227,7 @@
         [
             "properly.",
             {
-                "_index": 293,
+                "_index": 292,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7244,7 +7244,7 @@
         [
             "protection",
             {
-                "_index": 385,
+                "_index": 384,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7265,7 +7265,7 @@
         [
             "protections",
             {
-                "_index": 383,
+                "_index": 382,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7286,7 +7286,7 @@
         [
             "protections.",
             {
-                "_index": 433,
+                "_index": 432,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7345,7 +7345,7 @@
         [
             "publicly.",
             {
-                "_index": 379,
+                "_index": 378,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7362,7 +7362,7 @@
         [
             "qbcore",
             {
-                "_index": 354,
+                "_index": 353,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7379,7 +7379,7 @@
         [
             "ready",
             {
-                "_index": 436,
+                "_index": 435,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7413,7 +7413,7 @@
         [
             "reason",
             {
-                "_index": 304,
+                "_index": 303,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7447,7 +7447,7 @@
         [
             "recommendation:",
             {
-                "_index": 411,
+                "_index": 410,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7464,7 +7464,7 @@
         [
             "recommendations",
             {
-                "_index": 301,
+                "_index": 300,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7481,7 +7481,7 @@
         [
             "reduce",
             {
-                "_index": 417,
+                "_index": 416,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7498,7 +7498,7 @@
         [
             "regularly",
             {
-                "_index": 429,
+                "_index": 428,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7515,7 +7515,7 @@
         [
             "related",
             {
-                "_index": 308,
+                "_index": 307,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7566,7 +7566,7 @@
         [
             "required",
             {
-                "_index": 366,
+                "_index": 365,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7709,7 +7709,7 @@
         [
             "resources.",
             {
-                "_index": 261,
+                "_index": 260,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7755,7 +7755,7 @@
         [
             "restrictions",
             {
-                "_index": 407,
+                "_index": 406,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7772,7 +7772,7 @@
         [
             "restrictions.",
             {
-                "_index": 226,
+                "_index": 225,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7789,7 +7789,7 @@
         [
             "review",
             {
-                "_index": 412,
+                "_index": 411,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7810,7 +7810,7 @@
         [
             "right",
             {
-                "_index": 360,
+                "_index": 359,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7827,7 +7827,7 @@
         [
             "run",
             {
-                "_index": 437,
+                "_index": 436,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -7890,7 +7890,7 @@
         [
             "same",
             {
-                "_index": 310,
+                "_index": 309,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -7907,7 +7907,7 @@
         [
             "sandbox",
             {
-                "_index": 225,
+                "_index": 224,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -8099,7 +8099,7 @@
         [
             "security",
             {
-                "_index": 333,
+                "_index": 332,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8116,7 +8116,7 @@
         [
             "security.",
             {
-                "_index": 418,
+                "_index": 417,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8133,7 +8133,7 @@
         [
             "selection",
             {
-                "_index": 358,
+                "_index": 357,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8150,7 +8150,7 @@
         [
             "selection).",
             {
-                "_index": 346,
+                "_index": 345,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8286,7 +8286,7 @@
         [
             "server,",
             {
-                "_index": 245,
+                "_index": 244,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -8419,7 +8419,7 @@
         [
             "set,",
             {
-                "_index": 435,
+                "_index": 434,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8436,7 +8436,7 @@
         [
             "setting",
             {
-                "_index": 336,
+                "_index": 335,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8453,7 +8453,7 @@
         [
             "settings",
             {
-                "_index": 386,
+                "_index": 385,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8480,7 +8480,7 @@
                     "/": {
                         "position": [
                             [
-                                536,
+                                537,
                                 5
                             ]
                         ]
@@ -8491,7 +8491,7 @@
         [
             "shadowguard",
             {
-                "_index": 232,
+                "_index": 231,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -8605,7 +8605,7 @@
         [
             "shadowguardac’s",
             {
-                "_index": 369,
+                "_index": 368,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8622,7 +8622,7 @@
         [
             "share",
             {
-                "_index": 378,
+                "_index": 377,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8721,7 +8721,7 @@
                     "/": {
                         "position": [
                             [
-                                564,
+                                565,
                                 2
                             ]
                         ]
@@ -8740,7 +8740,7 @@
         [
             "spawns",
             {
-                "_index": 361,
+                "_index": 360,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8757,7 +8757,7 @@
         [
             "specific",
             {
-                "_index": 394,
+                "_index": 393,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8774,7 +8774,7 @@
         [
             "speed",
             {
-                "_index": 403,
+                "_index": 402,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8797,7 +8797,7 @@
                     "/": {
                         "position": [
                             [
-                                575,
+                                576,
                                 5
                             ]
                         ]
@@ -8833,7 +8833,7 @@
         [
             "start,",
             {
-                "_index": 326,
+                "_index": 325,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -8875,7 +8875,7 @@
         [
             "starts",
             {
-                "_index": 339,
+                "_index": 338,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -8909,7 +8909,7 @@
         [
             "stay",
             {
-                "_index": 305,
+                "_index": 304,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -8985,7 +8985,7 @@
         [
             "storage",
             {
-                "_index": 368,
+                "_index": 367,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9019,7 +9019,7 @@
         [
             "such",
             {
-                "_index": 396,
+                "_index": 395,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9069,7 +9069,7 @@
         [
             "system",
             {
-                "_index": 290,
+                "_index": 289,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9086,7 +9086,7 @@
         [
             "take",
             {
-                "_index": 431,
+                "_index": 430,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9423,11 +9423,11 @@
                     "/": {
                         "position": [
                             [
-                                586,
+                                587,
                                 4
                             ],
                             [
-                                612,
+                                613,
                                 4
                             ]
                         ]
@@ -9446,7 +9446,7 @@
         [
             "tip:",
             {
-                "_index": 356,
+                "_index": 355,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9510,11 +9510,11 @@
                                 2
                             ],
                             [
-                                465,
+                                466,
                                 2
                             ],
                             [
-                                528,
+                                529,
                                 2
                             ]
                         ]
@@ -9625,7 +9625,7 @@
         [
             "token",
             {
-                "_index": 371,
+                "_index": 370,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9654,7 +9654,7 @@
         [
             "trigger",
             {
-                "_index": 342,
+                "_index": 341,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9681,7 +9681,7 @@
                     "/": {
                         "position": [
                             [
-                                468,
+                                469,
                                 12
                             ]
                         ]
@@ -9692,7 +9692,7 @@
         [
             "unless",
             {
-                "_index": 303,
+                "_index": 302,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9764,7 +9764,7 @@
         [
             "updates",
             {
-                "_index": 430,
+                "_index": 429,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -9781,7 +9781,7 @@
         [
             "updates.",
             {
-                "_index": 277,
+                "_index": 276,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9831,7 +9831,7 @@
         [
             "use.",
             {
-                "_index": 329,
+                "_index": 328,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9848,7 +9848,7 @@
         [
             "used",
             {
-                "_index": 244,
+                "_index": 243,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9882,7 +9882,7 @@
         [
             "version",
             {
-                "_index": 220,
+                "_index": 219,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9899,7 +9899,7 @@
         [
             "version.",
             {
-                "_index": 307,
+                "_index": 306,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9916,7 +9916,7 @@
         [
             "very",
             {
-                "_index": 282,
+                "_index": 281,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9933,7 +9933,7 @@
         [
             "warning,",
             {
-                "_index": 280,
+                "_index": 279,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9950,7 +9950,7 @@
         [
             "warnings",
             {
-                "_index": 297,
+                "_index": 296,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -9977,7 +9977,7 @@
                                 2
                             ],
                             [
-                                521,
+                                522,
                                 2
                             ]
                         ]
@@ -10000,7 +10000,7 @@
         [
             "weapon",
             {
-                "_index": 406,
+                "_index": 405,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -10067,7 +10067,7 @@
         [
             "when",
             {
-                "_index": 338,
+                "_index": 337,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -10105,7 +10105,7 @@
         [
             "why",
             {
-                "_index": 252,
+                "_index": 251,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10199,7 +10199,7 @@
         [
             "with",
             {
-                "_index": 265,
+                "_index": 264,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10228,7 +10228,7 @@
         [
             "work",
             {
-                "_index": 292,
+                "_index": 291,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10257,7 +10257,7 @@
         [
             "working",
             {
-                "_index": 271,
+                "_index": 270,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10274,7 +10274,7 @@
         [
             "world.",
             {
-                "_index": 363,
+                "_index": 362,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -10309,7 +10309,7 @@
                                 3
                             ],
                             [
-                                567,
+                                568,
                                 3
                             ]
                         ]
@@ -10411,7 +10411,7 @@
                                 4
                             ],
                             [
-                                626,
+                                627,
                                 4
                             ]
                         ]
@@ -10601,7 +10601,7 @@
         [
             "≤",
             {
-                "_index": 227,
+                "_index": 226,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10651,7 +10651,7 @@
         [
             "⚠",
             {
-                "_index": 320,
+                "_index": 319,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10693,7 +10693,7 @@
         [
             "⛔",
             {
-                "_index": 254,
+                "_index": 253,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10735,7 +10735,7 @@
         [
             "❗",
             {
-                "_index": 278,
+                "_index": 277,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -10758,7 +10758,7 @@
                     "/": {
                         "position": [
                             [
-                                640,
+                                641,
                                 2
                             ]
                         ]
@@ -10815,7 +10815,7 @@
         [
             "🏃",
             {
-                "_index": 402,
+                "_index": 401,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -10849,7 +10849,7 @@
         [
             "👀",
             {
-                "_index": 400,
+                "_index": 399,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -10883,7 +10883,7 @@
         [
             "👤",
             {
-                "_index": 334,
+                "_index": 333,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -10906,7 +10906,7 @@
                     "/": {
                         "position": [
                             [
-                                509,
+                                510,
                                 2
                             ]
                         ]
@@ -11021,7 +11021,7 @@
         [
             "📌",
             {
-                "_index": 419,
+                "_index": 418,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -11114,7 +11114,7 @@
         [
             "🔄",
             {
-                "_index": 267,
+                "_index": 266,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -11135,7 +11135,7 @@
         [
             "🔍",
             {
-                "_index": 299,
+                "_index": 298,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {
@@ -11152,7 +11152,7 @@
         [
             "🔑",
             {
-                "_index": 364,
+                "_index": 363,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -11169,7 +11169,7 @@
         [
             "🔫",
             {
-                "_index": 405,
+                "_index": 404,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -11228,7 +11228,7 @@
         [
             "🚫",
             {
-                "_index": 398,
+                "_index": 397,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/config/": {
@@ -11243,7 +11243,7 @@
             }
         ],
         [
-            "🛠",
+            "🛠️",
             {
                 "_index": 60,
                 "title": {},
@@ -11252,19 +11252,10 @@
                         "position": [
                             [
                                 457,
-                                2
+                                3
                             ]
                         ]
-                    }
-                }
-            }
-        ],
-        [
-            "🛠️",
-            {
-                "_index": 214,
-                "title": {},
-                "text": {
+                    },
                     "/documentation/shadowguard-anticheat/require/": {
                         "position": [
                             [
@@ -11279,7 +11270,7 @@
         [
             "🛡️",
             {
-                "_index": 316,
+                "_index": 315,
                 "title": {},
                 "text": {
                     "/documentation/shadowguard-anticheat/require/": {

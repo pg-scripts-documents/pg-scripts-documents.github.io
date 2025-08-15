@@ -1,7 +1,7 @@
 {
     "/": {
         "title": "Documents",
-        "text": "👋 Welcome to  PG-Scripts  Documentation Welcome to the official documentation for  PG-Scripts ! 🎉 This site will guide you through everything you need to  install ,  configure , and  enjoy  the scripts we provide. Whether you are a beginner 🐣 or an experienced developer 💻, you'll find clear and easy-to-follow instructions here. 📚 What you’ll learn 🚀  How to install  our scripts step-by-step. ⚙️  How to configure & customize  them for your server. 🛠  How to troubleshoot  and follow best practices. 💡 Our goal We aim to make setup  as easy as possible  so you can spend less time configuring and more time enjoying your project. ❤️"
+        "text": "👋 Welcome to  PG-Scripts  Documentation Welcome to the official documentation for  PG-Scripts ! 🎉 This site will guide you through everything you need to  install ,  configure , and  enjoy  the scripts we provide. Whether you are a beginner 🐣 or an experienced developer 💻, you'll find clear and easy-to-follow instructions here. 📚 What you’ll learn 🚀  How to install  our scripts step-by-step. ⚙️  How to configure & customize  them for your server. 🛠️  How to troubleshoot  and follow best practices. 💡 Our goal We aim to make setup  as easy as possible  so you can spend less time configuring and more time enjoying your project. ❤️"
     },
     "/documentation/shadowguard-anticheat/install/": {
         "title": "Install",
