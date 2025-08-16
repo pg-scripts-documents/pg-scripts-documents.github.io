@@ -4,24 +4,24 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>
-        Documents - PG-Scripts
+        Introduction - PG-Scripts
     </title>
     <meta name="theme-color" content="#ffffff">
-    <meta name="description" content="Documents"/>
+    <meta name="description" content="Introduction"/>
     <link rel="icon" type="image/svg+xml" href="https://pg-scripts-documents.github.io"/>
     <link rel="icon" type="image/png" sizes="32x32" href="https://pg-scripts-documents.github.io">
     <link rel="icon" type="image/png" sizes="16x16" href="https://pg-scripts-documents.github.io">    
         
     <meta property="og:image" content="https://pg-scripts-documents.github.io"/>
     <meta property="og:url" content="https://pg-scripts-documents.github.io/">
-    <meta property="og:title" content="Documents - PG-Scripts" />
+    <meta property="og:title" content="Introduction - PG-Scripts" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="Documents"/>
+    <meta property="og:description" content="Introduction"/>
     
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content=""/>
-    <meta name="twitter:title" content="Documents - PG-Scripts" />
-    <meta name="twitter:description" content="Documents" />
+    <meta name="twitter:title" content="Introduction - PG-Scripts" />
+    <meta name="twitter:description" content="Introduction" />
     <meta name="twitter:image" content="https://pg-scripts-documents.github.io"/>
 
     <link rel="canonical" href="https://pg-scripts-documents.github.io/">
@@ -45,7 +45,7 @@
     </style>
     <script>
         function getInitialTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'system';
+            const savedTheme = localStorage.getItem('theme') || 'dark';
             if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
@@ -57,7 +57,7 @@
 <body>
 
 <div id="root">
-    <sl-drawer id="menu-drawer" label="Documentation" class="drawer__control" placement="top">
+    <sl-drawer id="menu-drawer" label="Introduction" class="drawer__control" placement="top">
         <div class="body__drawer">
             <div class="items">
                 
@@ -67,7 +67,7 @@
                             size="medium" 
                             href="/"
                         >
-                            Documentation
+                            Introduction
                         </sl-button>
                          
                 
@@ -90,7 +90,7 @@
                                              selected 
                                             class="leaf"
                                         >
-                                            <a href="/">Documents</a>
+                                            <a href="/">Introduction</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -111,7 +111,7 @@
                                             
                                             class="leaf"
                                         >
-                                            <a href="/documentation/shadowguard-anticheat/install/">Install</a>
+                                            <a href="/introduction/shadowguard-anticheat/install/">Install</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -122,7 +122,7 @@
                                             
                                             class="leaf"
                                         >
-                                            <a href="/documentation/shadowguard-anticheat/require/">Require</a>
+                                            <a href="/introduction/shadowguard-anticheat/require/">Require</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -133,7 +133,7 @@
                                             
                                             class="leaf"
                                         >
-                                            <a href="/documentation/shadowguard-anticheat/config/">Config</a>
+                                            <a href="/introduction/shadowguard-anticheat/config/">Config</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -181,7 +181,7 @@
                                     size="medium" 
                                     href="/"
                                 >
-                                    Documentation
+                                    Introduction
                                 </sl-button>
                                                     
                         
@@ -240,7 +240,7 @@
                                              selected 
                                             class="leaf"
                                         >
-                                            <a href="/">Documents</a>
+                                            <a href="/">Introduction</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -262,7 +262,7 @@
                                             
                                             class="leaf"
                                         >
-                                            <a href="/documentation/shadowguard-anticheat/install/">Install</a>
+                                            <a href="/introduction/shadowguard-anticheat/install/">Install</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -273,7 +273,7 @@
                                             
                                             class="leaf"
                                         >
-                                            <a href="/documentation/shadowguard-anticheat/require/">Require</a>
+                                            <a href="/introduction/shadowguard-anticheat/require/">Require</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -284,7 +284,7 @@
                                             
                                             class="leaf"
                                         >
-                                            <a href="/documentation/shadowguard-anticheat/config/">Config</a>
+                                            <a href="/introduction/shadowguard-anticheat/config/">Config</a>
                                         </sl-tree-item>                                        
                                     
                                 
@@ -331,7 +331,7 @@
                         </div>
                          <div></div> 
                         
-                            <a href="/documentation/shadowguard-anticheat/install/" class="column right-column" title="Install">
+                            <a href="/introduction/shadowguard-anticheat/install/" class="column right-column" title="Install">
                                 <div class="label">
                                     <div class="title">NEXT</div>
                                     <div class="line-clamp-2">
@@ -412,8 +412,8 @@
     import {preInitTree} from 'https://pg-scripts-documents.github.io/_lib/pre.js';
     preInitTree();
     await initPage();
-    await initTheme('system');
-    await initSearch('https://pg-scripts-documents.github.io', '1755276518881');
+    await initTheme('dark');
+    await initSearch('https://pg-scripts-documents.github.io', '1755357012950');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();

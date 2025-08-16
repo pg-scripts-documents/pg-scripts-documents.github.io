@@ -30,7 +30,7 @@
     </style>
     <script>
         function getInitialTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'system';
+            const savedTheme = localStorage.getItem('theme') || 'dark';
             if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
@@ -52,7 +52,7 @@
                             size="medium" 
                             href="/"
                         >
-                            Documentation
+                            Introduction
                         </sl-button>
                          
                 
@@ -90,7 +90,7 @@
                                     size="medium" 
                                     href="/"
                                 >
-                                    Documentation
+                                    Introduction
                                 </sl-button>
                                                     
                         
@@ -176,8 +176,8 @@
     import {preInitTree} from 'https://pg-scripts-documents.github.io/_lib/pre.js';
     preInitTree();
     await initPage();
-    await initTheme('system');
-    await initSearch('https://pg-scripts-documents.github.io', '1755276518881');
+    await initTheme('dark');
+    await initSearch('https://pg-scripts-documents.github.io', '1755357012950');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();
